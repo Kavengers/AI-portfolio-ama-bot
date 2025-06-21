@@ -1,0 +1,728 @@
+[
+  {
+    "text": "What is your total experience?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "How long have you been working professionally?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "How many years of experience do you have?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Tell me about your career so far.",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What's your work history like?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Can you describe your job experience?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Walk me through your professional background.",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you worked in both frontend and backend roles?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Are you an experienced developer?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "How many years have you spent in full stack development?",
+    "metadata": {
+      "answer": "\n        <h3>Professional Experience</h3>\n        <p>I have <strong>7+ years</strong> of experience as a Full Stack Engineer.</p>\n        <p>I\u2019ve worked in startups and enterprise environments, building scalable and maintainable web applications.</p>\n        <ul>\n            <li>Frontend: React, TypeScript, Redux Toolkit</li>\n            <li>Backend: Node.js, Express, Python</li>\n            <li>Cloud: AWS, Docker, GitHub Actions</li>\n            <li>Databases: PostgreSQL, MongoDB, Redis</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What technologies do you use?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Which tech stack are you comfortable with?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What tools and frameworks have you worked with?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What languages do you program in?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "List the technologies you're experienced in.",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What\u2019s your preferred tech stack?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Which frontend and backend tools do you know?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you worked with modern JavaScript frameworks?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Do you have experience with cloud platforms like AWS?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Are you familiar with DevOps or automation tools?",
+    "metadata": {
+      "answer": "\n        <h3>Tech Stack</h3>\n        <p>I'm proficient in the following technologies:</p>\n        <ul>\n            <li><strong>Frontend:</strong> React, Redux, Next.js, Tailwind CSS</li>\n            <li><strong>Backend:</strong> Node.js, Python (FastAPI), Express</li>\n            <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis</li>\n            <li><strong>Cloud & DevOps:</strong> AWS, Docker, GitHub Actions</li>\n            <li><strong>Other Tools:</strong> Kafka, Redis, Electron, OpenRPA</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you worked with international teams?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Are you comfortable with remote collaboration?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Do you have experience working across time zones?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Can you communicate well with global teams?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you handled remote client calls?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you been part of a distributed team?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Do you understand asynchronous communication?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Are you used to working with overseas clients?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Do you use Slack or Jira for remote work?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What\u2019s your experience with remote agile workflows?",
+    "metadata": {
+      "answer": "\n        <h3>Global Collaboration</h3>\n        <p>Yes, I\u2019ve worked with teams across the globe including the US, Europe, and Southeast Asia.</p>\n        <ul>\n            <li>Attended remote agile ceremonies and demos</li>\n            <li>Asynchronous collaboration using Slack, Notion, and Jira</li>\n            <li>Flexible with timezone overlaps and distributed team culture</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Do you have leadership experience?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you ever led a team?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you mentored juniors?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you conducted technical interviews?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Can you manage developers?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Do you take ownership of your projects?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Are you comfortable reviewing code?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you handled team coordination?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "Have you contributed to architecture planning?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What\u2019s your role in decision-making in teams?",
+    "metadata": {
+      "answer": "\n        <h3>Leadership Experience</h3>\n        <p>I\u2019ve led multiple engineering teams and taken ownership of project delivery.</p>\n        <ul>\n            <li>Team mentoring and code reviews</li>\n            <li>Technical decision-making and architecture discussions</li>\n            <li>Interviewed and onboarded developers</li>\n        </ul>\n    "
+    }
+  },
+  {
+    "text": "What\u2019s your story as a developer?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "How did you start coding?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "Tell me about your background in tech.",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "Did you learn programming on your own?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "How did you grow your technical skills?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "Have you always been interested in software?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "How did you move from blogs to full-stack development?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "Have you used mobile to write code?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "What's your learning journey been like?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+  {
+    "text": "Why did you choose to become a developer?",
+    "metadata": {
+      "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
+    }
+  },
+   {
+    "text": "What do you enjoy most about your work?",
+    "metadata": {
+      "answer": "<h3>What I Enjoy at Work</h3><p>I genuinely enjoy solving complex problems and building tools that make users' lives easier. I love seeing my code go live and create real value.</p>"
+    }
+  },
+  {
+    "text": "Which part of software development excites you?",
+    "metadata": {
+      "answer": "<h3>Excitement in Development</h3><p>I love architecting systems, writing clean scalable code, and working on performance optimization. Debugging something tough and finally cracking it gives me a thrill.</p>"
+    }
+  },
+  {
+    "text": "What do you love most about coding?",
+    "metadata": {
+      "answer": "<h3>Passion for Coding</h3><p>The creative freedom and logical flow of coding fascinate me. It's like solving puzzles that make the world a little better with every commit.</p>"
+    }
+  },
+  {
+    "text": "What technologies do you enjoy working with?",
+    "metadata": {
+      "answer": "<h3>Favorite Technologies</h3><p>I'm particularly drawn to React, Node.js, and AWS. I also enjoy playing with emerging tech like Web3, vector databases, and serverless tools.</p>"
+    }
+  },
+  {
+    "text": "What are your hobbies outside of work?",
+    "metadata": {
+      "answer": "<h3>Outside Work</h3><p>I love learning about new tech, but I also enjoy creative writing, music, exploring productivity systems, and watching documentaries. Sometimes I prototype side projects for fun too.</p>"
+    }
+  },
+  {
+    "text": "What do you like to do in your free time?",
+    "metadata": {
+      "answer": "<h3>Free Time Fun</h3><p>Reading about startups, experimenting with code, and creating simple tools. I also enjoy hanging out with friends or catching up on personal journaling.</p>"
+    }
+  },
+  {
+    "text": "Do you have any non-tech passions?",
+    "metadata": {
+      "answer": "<h3>Beyond Tech</h3><p>Yes! I'm fascinated by human behavior, systems thinking, and storytelling. I love observing how ideas spread and how products impact people's lives.</p>"
+    }
+  },
+  {
+    "text": "What motivates you?",
+    "metadata": {
+      "answer": "<h3>My Motivation</h3><p>Learning something new every day and building things that have a real impact. I'm driven by curiosity and the thrill of seeing something I built being used by others.</p>"
+    }
+  },
+  {
+    "text": "Are you more of a team player or an independent worker?",
+    "metadata": {
+      "answer": "<h3>Work Style</h3><p>I can work independently with deep focus, but I thrive in collaborative teams where ideas are shared and improved together. I like to be in sync with the bigger vision.</p>"
+    }
+  },
+  {
+    "text": "What kind of work culture do you enjoy?",
+    "metadata": {
+      "answer": "<h3>Preferred Work Culture</h3><p>I enjoy environments that are open, honest, and focused on learning. I love teams that take ownership, communicate clearly, and support each other's growth.</p>"
+    }
+  },
+  {
+    "text": "Why should we hire you?",
+    "metadata": {
+      "answer": "<h3>Why Me?</h3><p>I bring a unique mix of technical expertise, product thinking, and startup hustle. I'm not just a coder — I care about the 'why' behind what I'm building. I deliver clean, scalable code, communicate well, and can quickly align with business goals.</p>"
+    }
+  },
+  {
+    "text": "What makes you a good fit for this role?",
+    "metadata": {
+      "answer": "<h3>Great Role Fit</h3><p>I've built full-stack apps from scratch, worked with international teams, and worn many hats — from engineering to product feedback. I adapt fast, take ownership, and get things done. I'm confident I can add value from day one.</p>"
+    }
+  },
+  {
+    "text": "Why are you the right person for this job?",
+    "metadata": {
+      "answer": "<h3>The Right Person</h3><p>I don't just write code — I build systems that solve problems. My understanding of both frontend and backend, along with my curiosity to keep learning, makes me versatile and dependable. I thrive in fast-moving environments.</p>"
+    }
+  },
+  {
+    "text": "What makes you different from other candidates?",
+    "metadata": {
+      "answer": "<h3>What Sets Me Apart</h3><p>Unlike many developers, I started from the ground up — learning on a mobile device, blogging, and shipping real projects early. This gave me grit, creativity, and deep self-discipline. I also understand the business side, not just the tech.</p>"
+    }
+  },
+  {
+    "text": "How do you add value to a team?",
+    "metadata": {
+      "answer": "<h3>Team Value</h3><p>I add value by being proactive, reliable, and flexible. Whether it's optimizing an API, refactoring frontend code, or jumping on a client call — I do what needs to be done with quality and a sense of ownership.</p>"
+    }
+  },
+  {
+    "text": "What will we gain by hiring you?",
+    "metadata": {
+      "answer": "<h3>What You Get</h3><p>You'll get someone who not only understands the tech but also thinks about user experience, product-market fit, and performance. I'm a self-starter who knows when to take initiative and when to collaborate.</p>"
+    }
+  },
+  {
+    "text": "Convince us to hire you.",
+    "metadata": {
+      "answer": "<h3>My Pitch</h3><p>I've been a hands-on developer, a team lead, and a problem solver. I learn fast, adapt to changing priorities, and always aim to make the product better — not just the codebase. I'll treat your business like it's mine.</p>"
+    }
+  },
+  {
+    "text": "What's your edge over others?",
+    "metadata": {
+      "answer": "<h3>My Edge</h3><p>I don't just follow tutorials — I build, experiment, and learn deeply. I've explored things like decentralized apps, payment gateways, and automation platforms on my own time. I bring initiative, curiosity, and execution.</p>"
+    }
+  },
+  {
+    "text": "What's your biggest strength for this job?",
+    "metadata": {
+      "answer": "<h3>My Core Strength</h3><p>My biggest strength is adaptability. I've thrived in multiple domains — fintech, healthcare, automation — and I can quickly onboard into new systems and deliver meaningful impact. I'm both a generalist and a focused executor.</p>"
+    }
+  },
+  {
+    "text": "Why are you confident about succeeding here?",
+    "metadata": {
+      "answer": "<h3>Confidence to Succeed</h3><p>I've faced and solved difficult problems, built production-ready platforms, and worked directly with clients. I'm confident in my ability to understand your product, blend in with your team, and deliver measurable results quickly.</p>"
+    }
+  },
+  {
+    "text": "What are your weaknesses?",
+    "metadata": {
+      "answer": "<h3>My Weakness</h3><p>In the past, I struggled with saying 'no' — I often took on too much responsibility, trying to help everyone. I’ve learned to set boundaries and prioritize effectively to stay focused and deliver high-quality work without burnout.</p>"
+    }
+  },
+  {
+    "text": "What would you consider your biggest weakness?",
+    "metadata": {
+      "answer": "<h3>Room for Improvement</h3><p>I tend to be a perfectionist, which sometimes slows me down. I'm learning to ship faster, trust the process, and iterate instead of waiting for things to be flawless from day one.</p>"
+    }
+  },
+  {
+    "text": "What kind of role are you looking for next?",
+    "metadata": {
+      "answer": "<h3>Ideal Next Role</h3><p>I'm looking for a role that blends strong engineering challenges with product thinking. Ideally, something full stack where I can contribute to both the architecture and user experience, while collaborating closely with product and design teams.</p>"
+    }
+  },
+  {
+    "text": "What are you looking for in your next opportunity?",
+    "metadata": {
+      "answer": "<h3>Next Opportunity</h3><p>I want to join a team that values ownership, continuous learning, and real impact. I’m excited by projects where I can work end-to-end — from understanding user needs to delivering production-ready features.</p>"
+    }
+  },
+  {
+    "text": "How do you handle failure?",
+    "metadata": {
+      "answer": "<h3>Handling Failure</h3><p>I treat failure as feedback. I reflect, talk to peers if needed, and extract what I can learn. Mistakes have been my biggest teachers — whether it's a bug in production or a communication slip, I come back stronger.</p>"
+    }
+  },
+  {
+    "text": "How do you deal with pressure or high-stress situations?",
+    "metadata": {
+      "answer": "<h3>Dealing with Pressure</h3><p>I stay calm, break the problem down, and focus on actionable steps. I’ve worked in fast-paced teams where priorities shift quickly, and I’ve learned to adapt without panicking, while also communicating clearly with stakeholders.</p>"
+    }
+  },
+  {
+    "text": "Describe a time when you failed and what you learned.",
+    "metadata": {
+      "answer": "<h3>Learning from Failure</h3><p>Once I underestimated a deployment timeline and didn’t buffer time for QA. It caused a minor delay for the client. I learned to always include QA and edge-case testing in my planning and to communicate better about risks up front.</p>"
+    }
+  },
+  {
+    "text": "Can you show me some of your projects?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "What have you built so far?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "I'd love to see your portfolio.",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "Do you have a project showcase?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "What are your most impressive projects?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "Have you worked on any real-world applications?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "Can you share links or demos of your work?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "What kind of apps have you developed?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "Tell me about your development projects.",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "Any open-source work or live demos?",
+    "metadata": {
+      "answer": "SHOW_MY_PROJECTS"
+    }
+  },
+  {
+    "text": "Where are you currently working?",
+    "metadata": {
+      "answer": "<h3>Current Company</h3><p>I'm currently working <strong>remotely</strong> for a company headquartered in <strong>Hyderabad, India</strong>. I've been effectively collaborating with both local and international teams.</p>"
+    }
+  },
+  {
+    "text": "What company do you work at?",
+    "metadata": {
+      "answer": "<h3>Current Company</h3><p>I'm currently working <strong>remotely</strong> for a company headquartered in <strong>Hyderabad, India</strong>. I've been effectively collaborating with both local and international teams.</p>"
+    }
+  },
+  {
+    "text": "Is your company based in Hyderabad?",
+    "metadata": {
+      "answer": "<h3>Current Company</h3><p>Yes, the organization I work with is <strong>based in Hyderabad</strong>, while I work remotely from a different location in India.</p>"
+    }
+  },
+  {
+    "text": "What's your work setup like?",
+    "metadata": {
+      "answer": "<h3>Work Setup</h3><p>I'm working <strong>remotely</strong>, fully equipped with async tools, and have successfully collaborated across time zones for the past few years.</p>"
+    }
+  },
+  {
+    "text": "Where is your office located?",
+    "metadata": {
+      "answer": "<h3>Office Location</h3><p>My company's office is located in <strong>Hyderabad, India</strong>, but I primarily work remotely.</p>"
+    }
+  },
+  {
+    "text": "How can I contact you?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Can you share your GitHub profile?",
+    "metadata": {
+      "answer": "<h3>GitHub</h3><p>You can explore my open-source work and projects at <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a>.</p>"
+    }
+  },
+  {
+    "text": "Do you have a LinkedIn profile?",
+    "metadata": {
+      "answer": "<h3>LinkedIn</h3><p>Yes, feel free to connect with me on <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>LinkedIn</a>. I'm open to opportunities, collaborations, and interesting tech chats!</p>"
+    }
+  },
+  {
+    "text": "What's your email address?",
+    "metadata": {
+      "answer": "<h3>Email</h3><p>You can email me at <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a> — I usually respond quickly!</p>"
+    }
+  },
+  {
+    "text": "Can I reach you on WhatsApp?",
+    "metadata": {
+      "answer": "<h3>Phone & WhatsApp</h3><p>Yes, you can message or call me on <a href='tel:+918860665230'>+91 88606 65230</a>. I'm available on <strong>WhatsApp</strong> as well.</p>"
+    }
+  },
+  {
+    "text": "Is there a number I can call you on?",
+    "metadata": {
+      "answer": "<h3>Call</h3><p>You can reach me at <a href='tel:+918860665230'>+91 88606 65230</a>. Calls and WhatsApp both work!</p>"
+    }
+  },
+  {
+    "text": "What is your notice period?",
+    "metadata": {
+      "answer": "<h3>Notice Period</h3><p>I'm available to join immediately. I have no active notice period or employment hold, so I can start right away.</p>"
+    }
+  },
+  {
+    "text": "How soon can you join?",
+    "metadata": {
+      "answer": "<h3>Notice Period</h3><p>I'm available to join immediately. I have no active notice period or employment hold, so I can start right away.</p>"
+    }
+  },
+  {
+    "text": "Are you serving notice right now?",
+    "metadata": {
+      "answer": "<h3>Notice Period</h3><p>No, I'm not currently serving any notice. I'm open and ready for new opportunities without delay.</p>"
+    }
+  },
+  {
+    "text": "What is the most challenging project you've worked on?",
+    "metadata": {
+      "answer": "<h3>Most Challenging Project</h3><p>One of the most challenging and rewarding projects I worked on was <strong>CDK Pay</strong>, a secure, scalable payment gateway platform that integrates multiple payment methods like Credit/Debit Cards, Bank Transfers, Terminals, and Invite-to-Pay systems.</p><p>I was involved from the ground up — from architecture and API design to integrating FortisPay as the payment provider. The platform needed to work seamlessly across various dealerships and services, handle PCI-compliant transactions, support tokenization, and enable real-time reporting and reconciliation.</p><ul><li><strong>Tech Stack:</strong> ReactJS, Redux Toolkit, FastAPI, Kafka, AWS Cognito, FortisPay SDK</li><li><strong>Challenges:</strong> Managing complex asynchronous flows, ensuring security & reliability, integrating multiple services smoothly</li><li><strong>Impact:</strong> The platform is now being used by multiple clients and scaled across different services, reducing payment processing time and increasing transparency</li></ul>"
+    }
+  },
+  {
+    "text": "Can you tell me about a technically challenging project you handled?",
+    "metadata": {
+      "answer": "<h3>Most Challenging Project</h3><p>One of the most challenging and rewarding projects I worked on was <strong>CDK Pay</strong>, a secure, scalable payment gateway platform that integrates multiple payment methods like Credit/Debit Cards, Bank Transfers, Terminals, and Invite-to-Pay systems.</p><p>I was involved from the ground up — from architecture and API design to integrating FortisPay as the payment provider. The platform needed to work seamlessly across various dealerships and services, handle PCI-compliant transactions, support tokenization, and enable real-time reporting and reconciliation.</p><ul><li><strong>Tech Stack:</strong> ReactJS, Redux Toolkit, FastAPI, Kafka, AWS Cognito, FortisPay SDK</li><li><strong>Challenges:</strong> Managing complex asynchronous flows, ensuring security & reliability, integrating multiple services smoothly</li><li><strong>Impact:</strong> The platform is now being used by multiple clients and scaled across different services, reducing payment processing time and increasing transparency</li></ul>"
+    }
+  },
+  {
+    "text": "Describe a project that pushed your limits as a developer.",
+    "metadata": {
+      "answer": "<h3>Most Challenging Project</h3><p>One of the most challenging and rewarding projects I worked on was <strong>CDK Pay</strong>, a secure, scalable payment gateway platform that integrates multiple payment methods like Credit/Debit Cards, Bank Transfers, Terminals, and Invite-to-Pay systems.</p><p>I was involved from the ground up — from architecture and API design to integrating FortisPay as the payment provider. The platform needed to work seamlessly across various dealerships and services, handle PCI-compliant transactions, support tokenization, and enable real-time reporting and reconciliation.</p><ul><li><strong>Tech Stack:</strong> ReactJS, Redux Toolkit, FastAPI, Kafka, AWS Cognito, FortisPay SDK</li><li><strong>Challenges:</strong> Managing complex asynchronous flows, ensuring security & reliability, integrating multiple services smoothly</li><li><strong>Impact:</strong> The platform is now being used by multiple clients and scaled across different services, reducing payment processing time and increasing transparency</li></ul>"
+    }
+  },
+  {
+    "text": "Which project was the hardest for you and why?",
+    "metadata": {
+      "answer": "<h3>Most Challenging Project</h3><p>One of the most challenging and rewarding projects I worked on was <strong>CDK Pay</strong>, a secure, scalable payment gateway platform that integrates multiple payment methods like Credit/Debit Cards, Bank Transfers, Terminals, and Invite-to-Pay systems.</p><p>I was involved from the ground up — from architecture and API design to integrating FortisPay as the payment provider. The platform needed to work seamlessly across various dealerships and services, handle PCI-compliant transactions, support tokenization, and enable real-time reporting and reconciliation.</p><ul><li><strong>Tech Stack:</strong> ReactJS, Redux Toolkit, FastAPI, Kafka, AWS Cognito, FortisPay SDK</li><li><strong>Challenges:</strong> Managing complex asynchronous flows, ensuring security & reliability, integrating multiple services smoothly</li><li><strong>Impact:</strong> The platform is now being used by multiple clients and scaled across different services, reducing payment processing time and increasing transparency</li></ul>"
+    }
+  },
+  {
+    "text": "Describe a challenging time at work and how you handled it.",
+    "metadata": {
+      "answer": "<h3>Challenging Time</h3><p>There was a time when a critical production bug affected the checkout experience on a live payment gateway used by hundreds of dealerships. The issue was intermittent, caused only under specific race conditions between tokenization and charge flows.</p><p><strong>Initial panic:</strong> It wasn't reproducible in staging, which made debugging even harder.</p><h4>What I Did:</h4><ul><li>Quickly introduced conditional logging & audit trails to monitor backend flows without disrupting users</li><li>Simulated real-time race conditions using local mocks and controlled delays</li><li>Worked closely with the QA team and business users to gather patterns from failed transactions</li><li>Identified a mismatch in handling of async responses between FortisPay's webhook & client-side confirmations</li></ul><h4>Outcome:</h4><p>We deployed a fix within 24 hours. I also wrote a retro and built a chaos-test harness for future edge cases. The leadership appreciated not just the fix, but how transparently it was communicated and handled.</p>"
+    }
+  },
+  {
+    "text": "Tell me about a crisis you handled in a project.",
+    "metadata": {
+      "answer": "<h3>Challenging Time</h3><p>There was a time when a critical production bug affected the checkout experience on a live payment gateway used by hundreds of dealerships. The issue was intermittent, caused only under specific race conditions between tokenization and charge flows.</p><p><strong>Initial panic:</strong> It wasn't reproducible in staging, which made debugging even harder.</p><h4>What I Did:</h4><ul><li>Quickly introduced conditional logging & audit trails to monitor backend flows without disrupting users</li><li>Simulated real-time race conditions using local mocks and controlled delays</li><li>Worked closely with the QA team and business users to gather patterns from failed transactions</li><li>Identified a mismatch in handling of async responses between FortisPay's webhook & client-side confirmations</li></ul><h4>Outcome:</h4><p>We deployed a fix within 24 hours. I also wrote a retro and built a chaos-test harness for future edge cases. The leadership appreciated not just the fix, but how transparently it was communicated and handled.</p>"
+    }
+  },
+  {
+    "text": "Have you ever faced a production issue? What did you do?",
+    "metadata": {
+      "answer": "<h3>Challenging Time</h3><p>There was a time when a critical production bug affected the checkout experience on a live payment gateway used by hundreds of dealerships. The issue was intermittent, caused only under specific race conditions between tokenization and charge flows.</p><p><strong>Initial panic:</strong> It wasn't reproducible in staging, which made debugging even harder.</p><h4>What I Did:</h4><ul><li>Quickly introduced conditional logging & audit trails to monitor backend flows without disrupting users</li><li>Simulated real-time race conditions using local mocks and controlled delays</li><li>Worked closely with the QA team and business users to gather patterns from failed transactions</li><li>Identified a mismatch in handling of async responses between FortisPay's webhook & client-side confirmations</li></ul><h4>Outcome:</h4><p>We deployed a fix within 24 hours. I also wrote a retro and built a chaos-test harness for future edge cases. The leadership appreciated not just the fix, but how transparently it was communicated and handled.</p>"
+    }
+  },
+  {
+    "text": "What's the toughest technical situation you've solved?",
+    "metadata": {
+      "answer": "<h3>Challenging Time</h3><p>There was a time when a critical production bug affected the checkout experience on a live payment gateway used by hundreds of dealerships. The issue was intermittent, caused only under specific race conditions between tokenization and charge flows.</p><p><strong>Initial panic:</strong> It wasn't reproducible in staging, which made debugging even harder.</p><h4>What I Did:</h4><ul><li>Quickly introduced conditional logging & audit trails to monitor backend flows without disrupting users</li><li>Simulated real-time race conditions using local mocks and controlled delays</li><li>Worked closely with the QA team and business users to gather patterns from failed transactions</li><li>Identified a mismatch in handling of async responses between FortisPay's webhook & client-side confirmations</li></ul><h4>Outcome:</h4><p>We deployed a fix within 24 hours. I also wrote a retro and built a chaos-test harness for future edge cases. The leadership appreciated not just the fix, but how transparently it was communicated and handled.</p>"
+    }
+  },
+  {
+    "text": "What is your current salary?",
+    "metadata": {
+      "answer": "<h3>Compensation Details</h3><p>I'd prefer not to disclose compensation details here. Please feel free to <a href='mailto:kavikumarkk777@gmail.com'>email me</a> or <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>reach out on LinkedIn</a> for a direct conversation.</p>"
+    }
+  },
+  {
+    "text": "Can you tell me your CTC?",
+    "metadata": {
+      "answer": "<h3>CTC Details</h3><p>I keep compensation discussions private. You're welcome to contact me directly at <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a> or via <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>LinkedIn</a>.</p>"
+    }
+  },
+  {
+    "text": "How much are you making right now?",
+    "metadata": {
+      "answer": "<h3>Compensation Info</h3><p>I'd prefer not to list salary details publicly. I'm happy to discuss compensation expectations privately — feel free to reach out!</p>"
+    }
+  },
+  {
+    "text": "What's your current package?",
+    "metadata": {
+      "answer": "<h3>Package Details</h3><p>Let's keep that offline! Please message me directly for any compensation-related queries. I'll be happy to share it with relevant context.</p>"
+    }
+  },
+  {
+    "text": "Are you open to discussing your current pay?",
+    "metadata": {
+      "answer": "<h3>Compensation Transparency</h3><p>I'd be happy to talk about it one-on-one. You can contact me at <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a> or message me on LinkedIn.</p>"
+    }
+  },
+   {
+    "text": "What's your name?",
+    "metadata": {
+      "answer": "<h3>My Name</h3><p>Hi! I'm <strong>Kashish Kavi</strong>, a Full Stack Engineer with a passion for building reliable, user-centric software.</p>"
+    }
+  },
+  {
+    "text": "Who are you?",
+    "metadata": {
+      "answer": "<h3>My Name</h3><p>Hi! I'm <strong>Kashish Kavi</strong>, a Full Stack Engineer with a passion for building reliable, user-centric software.</p>"
+    }
+  },
+  {
+    "text": "Could you tell me your full name?",
+    "metadata": {
+      "answer": "<h3>My Name</h3><p>Hi! I'm <strong>Kashish Kavi</strong>, a Full Stack Engineer with a passion for building reliable, user-centric software.</p>"
+    }
+  },
+  {
+    "text": "Where are you located?",
+    "metadata": {
+      "answer": "<h3>Location</h3><p>I'm based in <strong>India</strong> (IST timezone) and fully remote-friendly. I've worked across time zones like PST, EST, and CET.</p>"
+    }
+  },
+  {
+    "text": "What timezone are you in?",
+    "metadata": {
+      "answer": "<h3>Location</h3><p>I'm based in <strong>India</strong> (IST timezone) and fully remote-friendly. I've worked across time zones like PST, EST, and CET.</p>"
+    }
+  },
+  {
+    "text": "What languages do you speak?",
+    "metadata": {
+      "answer": "<h3>Languages I Speak</h3><p>I speak fluent <strong>English</strong> and <strong>Hindi</strong>. I'm comfortable communicating in professional and technical environments globally.</p>"
+    }
+  },
+  {
+    "text": "Tell me a fun fact about you.",
+    "metadata": {
+      "answer": "<h3>Fun Fact</h3><p>I started coding on a mobile phone — no laptop, just hustle. That experience taught me how to think creatively under constraints and build things from scratch.</p>"
+    }
+  }
+]
