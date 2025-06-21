@@ -1,10 +1,5 @@
+# Safe ignore list
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 venv/
 .env
-*.db
-*.sqlite3
-.idea/
-.vscode/
