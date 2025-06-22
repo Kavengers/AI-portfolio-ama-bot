@@ -1,12 +1,12 @@
 # app/api/v1/routes.py
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 from app.services.embedding import get_embedding
 from app.core.vector_store import collection
 from app.models.item import InputText
 
 router = APIRouter()
 
-@router.get("/show")
+@router.get("/ping")
 def get_data():
     return {"status":"success"}
 
@@ -26,6 +26,17 @@ def search_text(query: str, n_results: int = 3):
     embedding = get_embedding(query)
     results = collection.query(
         query_embeddings=[embedding],
-        n_results=n_results
+        n_results=n_results,
+        include=["distances", "metadatas"]
     )
-    return {"results": results['metadatas'][0]}
+    distances = results["distances"][0]
+    best_distance = distances[0]
+    # SIMILARITY_THRESHOLD = 0.3
+
+    # if best_distance >= SIMILARITY_THRESHOLD:
+    #     raise HTTPException(status_code=404, detail="Oops! I don't think i have answer to that right now. But you can download my resume to get any information you need about me.")
+
+    return {
+        "metadata": results["metadatas"][0][0],
+        "score": 1 - best_distance  # optional: convert to similarity score
+    }

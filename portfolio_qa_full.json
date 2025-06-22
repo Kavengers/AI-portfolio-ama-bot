@@ -240,7 +240,7 @@
     }
   },
   {
-    "text": "What\u2019s your story as a developer?",
+    "text": "What's your story as a developer?",
     "metadata": {
       "answer": "\n        <h3>My Developer Journey</h3>\n        <p>I began coding at <strong>16</strong> using only a mobile phone. I built blogs and websites using HTML, CSS, and JavaScript via mobile editors.</p>\n        <p>Eventually, I expanded into:</p>\n        <ul>\n            <li>WordPress & PHP development</li>\n            <li>Shopify & e-commerce site development</li>\n            <li>Full-stack app development (MERN)</li>\n            <li>Infrastructure automation, DevOps, and low-code tools</li>\n        </ul>\n        <p>This self-taught journey makes me adaptable, quick to learn, and passionate about using tech to solve real-world problems.</p>\n    "
     }
@@ -422,7 +422,7 @@
   {
     "text": "What are your weaknesses?",
     "metadata": {
-      "answer": "<h3>My Weakness</h3><p>In the past, I struggled with saying 'no' — I often took on too much responsibility, trying to help everyone. I’ve learned to set boundaries and prioritize effectively to stay focused and deliver high-quality work without burnout.</p>"
+      "answer": "<h3>My Weakness</h3><p>In the past, I struggled with saying 'no' — I often took on too much responsibility, trying to help everyone. I've learned to set boundaries and prioritize effectively to stay focused and deliver high-quality work without burnout.</p>"
     }
   },
   {
@@ -440,7 +440,7 @@
   {
     "text": "What are you looking for in your next opportunity?",
     "metadata": {
-      "answer": "<h3>Next Opportunity</h3><p>I want to join a team that values ownership, continuous learning, and real impact. I’m excited by projects where I can work end-to-end — from understanding user needs to delivering production-ready features.</p>"
+      "answer": "<h3>Next Opportunity</h3><p>I want to join a team that values ownership, continuous learning, and real impact. I'm excited by projects where I can work end-to-end — from understanding user needs to delivering production-ready features.</p>"
     }
   },
   {
@@ -452,13 +452,13 @@
   {
     "text": "How do you deal with pressure or high-stress situations?",
     "metadata": {
-      "answer": "<h3>Dealing with Pressure</h3><p>I stay calm, break the problem down, and focus on actionable steps. I’ve worked in fast-paced teams where priorities shift quickly, and I’ve learned to adapt without panicking, while also communicating clearly with stakeholders.</p>"
+      "answer": "<h3>Dealing with Pressure</h3><p>I stay calm, break the problem down, and focus on actionable steps. I've worked in fast-paced teams where priorities shift quickly, and I've learned to adapt without panicking, while also communicating clearly with stakeholders.</p>"
     }
   },
   {
     "text": "Describe a time when you failed and what you learned.",
     "metadata": {
-      "answer": "<h3>Learning from Failure</h3><p>Once I underestimated a deployment timeline and didn’t buffer time for QA. It caused a minor delay for the client. I learned to always include QA and edge-case testing in my planning and to communicate better about risks up front.</p>"
+      "answer": "<h3>Learning from Failure</h3><p>Once I underestimated a deployment timeline and didn't buffer time for QA. It caused a minor delay for the client. I learned to always include QA and edge-case testing in my planning and to communicate better about risks up front.</p>"
     }
   },
   {
@@ -590,19 +590,19 @@
   {
     "text": "What is your notice period?",
     "metadata": {
-      "answer": "<h3>Notice Period</h3><p>I'm available to join immediately. I have no active notice period or employment hold, so I can start right away.</p>"
+      "answer": "<h3>Notice Period</h3><p>I'd be happy to discuss my availability further during our conversation. 😊 Let's connect to figure out a timeline that works for both of us!</p>"
     }
   },
   {
     "text": "How soon can you join?",
     "metadata": {
-      "answer": "<h3>Notice Period</h3><p>I'm available to join immediately. I have no active notice period or employment hold, so I can start right away.</p>"
+      "answer": "<h3>Joining Timeline</h3><p>That's a great topic to sync up on! 🚀 Let's chat about timelines and expectations so we can align smoothly.</p>"
     }
   },
   {
     "text": "Are you serving notice right now?",
     "metadata": {
-      "answer": "<h3>Notice Period</h3><p>No, I'm not currently serving any notice. I'm open and ready for new opportunities without delay.</p>"
+      "answer": "<h3>Availability</h3><p>Let's connect directly to discuss that. I'd love to walk you through my current situation and explore possibilities together! 🤝</p>"
     }
   },
   {
@@ -690,12 +690,6 @@
     }
   },
   {
-    "text": "Who are you?",
-    "metadata": {
-      "answer": "<h3>My Name</h3><p>Hi! I'm <strong>Kashish Kavi</strong>, a Full Stack Engineer with a passion for building reliable, user-centric software.</p>"
-    }
-  },
-  {
     "text": "Could you tell me your full name?",
     "metadata": {
       "answer": "<h3>My Name</h3><p>Hi! I'm <strong>Kashish Kavi</strong>, a Full Stack Engineer with a passion for building reliable, user-centric software.</p>"
@@ -723,6 +717,798 @@
     "text": "Tell me a fun fact about you.",
     "metadata": {
       "answer": "<h3>Fun Fact</h3><p>I started coding on a mobile phone — no laptop, just hustle. That experience taught me how to think creatively under constraints and build things from scratch.</p>"
+    }
+  },
+  {
+    "text": "Hey, what's up?",
+    "metadata": {
+      "answer": "<p>Hey! 😄 Not much, just relaxing a bit and enjoying the day. What about you?</p>"
+    }
+  },
+  {
+    "text": "How have you been lately?",
+    "metadata": {
+      "answer": "<p>I've been doing good! Just taking life one day at a time, keeping things chill. 😊</p>"
+    }
+  },
+  {
+    "text": "How are you?",
+    "metadata": {
+      "answer": "<p>I've been doing good! Just taking life one day at a time, keeping things chill. 😊</p>"
+    }
+  },
+  {
+    "text": "What have you been up to recently?",
+    "metadata": {
+      "answer": "<p>Lately? A bit of everything! Listening to music, watching some cool shows, and hanging out with friends when I can. 🎧🍿</p>"
+    }
+  },
+  {
+    "text": "How's everything going?",
+    "metadata": {
+      "answer": "<p>Everything's going well! Trying to stay positive, explore new things, and make time for myself. 🌱</p>"
+    }
+  },
+  {
+    "text": "What's new in your life?",
+    "metadata": {
+      "answer": "<p>Hmm, nothing too crazy. Just enjoying the little things — great coffee, good music, and peaceful walks. ☕🎶🚶‍♂️</p>"
+    }
+  },
+  {
+    "text": "Been up to anything fun?",
+    "metadata": {
+      "answer": "<p>Yeah! Caught up with a few friends recently and binged a really good series. Always makes me feel recharged. 🔋🎬</p>"
+    }
+  },
+  {
+    "text": "How are you feeling these days?",
+    "metadata": {
+      "answer": "<p>Pretty good actually! Calm, clear-headed, and grateful for the small joys. 🙏💫</p>"
+    }
+  },
+  {
+    "text": "What's your vibe these days?",
+    "metadata": {
+      "answer": "<p>Right now? Chillin'. Just trying to keep things light, stay healthy, and be present. ✌️🌿</p>"
+    }
+  },
+  {
+    "text": "What do you usually do on weekends?",
+    "metadata": {
+      "answer": "<p>Weekends are my escape! A mix of movies, good food, maybe a bit of reading or a long nap. 😴🍿📖</p>"
+    }
+  },
+  {
+    "text": "Do you take time to chill?",
+    "metadata": {
+      "answer": "<p>Absolutely. I believe in balance — taking time to slow down, reflect, and breathe. 🌸🧘‍♂️</p>"
+    }
+  },
+  {
+    "text": "Hey",
+    "metadata": {
+      "answer": "<p>Hey there! 👋 How's it going?</p>"
+    }
+  },
+  {
+    "text": "Hello",
+    "metadata": {
+      "answer": "<p>Hello! 😊 So nice of you to drop by!</p>"
+    }
+  },
+  {
+    "text": "Hi",
+    "metadata": {
+      "answer": "<p>Hiya! 🙌 What's on your mind?</p>"
+    }
+  },
+  {
+    "text": "Greetings",
+    "metadata": {
+      "answer": "<p>Greetings! 🖖 I'm glad you're here.</p>"
+    }
+  },
+  {
+    "text": "Yo",
+    "metadata": {
+      "answer": "<p>Yo! 😎 What's happening?</p>"
+    }
+  },
+  {
+    "text": "Sup?",
+    "metadata": {
+      "answer": "<p>Sup! 👀 Just vibing. What about you?</p>"
+    }
+  },
+  {
+    "text": "Hey there!",
+    "metadata": {
+      "answer": "<p>Hey hey! 👋 Good to see you!</p>"
+    }
+  },
+  {
+    "text": "Hiiiii",
+    "metadata": {
+      "answer": "<p>Hiiiiii! 😄 You brought the energy in here!</p>"
+    }
+  },
+  {
+    "text": "Howdy",
+    "metadata": {
+      "answer": "<p>Howdy partner! 🤠 Hope you're having a great day!</p>"
+    }
+  },
+  {
+    "text": "Wassup?",
+    "metadata": {
+      "answer": "<p>Wassup! 👋 Just here and happy to chat.</p>"
+    }
+  },
+  {
+    "text": "What can I ask you here?",
+    "metadata": {
+      "answer": "<h3>🤖 What Can You Ask Me?</h3><p>Great question! You can ask me anything to get to know me better. Here's a quick list:</p><ul><li>💼 My professional background & experience</li><li>📍 Where I'm based and if I work remotely</li><li>🧠 Technologies I've worked with</li><li>📬 How to reach me (email, LinkedIn, etc.)</li><li>🧘‍♂️ My hobbies, personality & what I enjoy</li><li>🎬 My favorite music, movies, and weekend vibes</li><li>🙋 Fun stuff like “What's up?”, “How are you?”, “Yo!”</li></ul><p>Think of this as a chill, intelligent FAQ about me — ask away! 😊</p>"
+    }
+  },
+  {
+    "text": "What can I talk to you about?",
+    "metadata": {
+      "answer": "<h3>🤖 What Can You Ask Me?</h3><p>Great question! You can ask me anything to get to know me better. Here's a quick list:</p><ul><li>💼 My professional background & experience</li><li>📍 Where I'm based and if I work remotely</li><li>🧠 Technologies I've worked with</li><li>📬 How to reach me (email, LinkedIn, etc.)</li><li>🧘‍♂️ My hobbies, personality & what I enjoy</li><li>🎬 My favorite music, movies, and weekend vibes</li><li>🙋 Fun stuff like “What's up?”, “How are you?”, “Yo!”</li></ul><p>Think of this as a chill, intelligent FAQ about me — ask away! 😊</p>"
+    }
+  },
+  {
+    "text": "Can I ask casual stuff?",
+    "metadata": {
+      "answer": "<h3>💬 Personal Questions?</h3><p>Absolutely! Feel free to ask casual or fun things too — not everything has to be about work. I'm happy to share about my hobbies, weekends, music taste, or even how I'm feeling today 😄</p>"
+    }
+  },
+  {
+    "text": "Is this a chatbot?",
+    "metadata": {
+      "answer": "<h3>🤖 Am I a Chatbot?</h3><p>Sort of! I'm powered by AI but trained specifically to help you learn more about me — Kashish. So while the answers are generated automatically, everything is written by me and based on my life and experience ✨</p>"
+    }
+  },
+  {
+    "text": "Are you real or AI?",
+    "metadata": {
+      "answer": "<h3>👋 It's Me — Just Smarter</h3><p>Yup, this is Kashish — just in a smarter, AI-powered format! Everything you see here is based on what I've written or shared about myself, just served to you with the help of tech. Think of it like a supercharged portfolio bot. ⚡</p>"
+    }
+  },
+  {
+    "text": "Is this for fun or serious stuff?",
+    "metadata": {
+      "answer": "<h3>😄 Not at All!</h3><p>You can ask me about anything — work, life, hobbies, movies, mood, or just say hello. I'm not here just for interviews — I'm here to hang out too. 🎉</p>"
+    }
+  },
+  {
+    "text": "What powers this bot?",
+    "metadata": {
+      "answer": "<h3>⚙️ How It Works</h3><p>Behind the scenes, this is powered by AI and a vector database that matches your question with answers I've written about myself. So no matter how you phrase something, you'll (hopefully) get a relevant, friendly response! 🧠💬</p>"
+    }
+  },
+  {
+    "text": "How did you build this app?",
+    "metadata": {
+      "answer": "<h3>🛠️ How I Built This App</h3><p>This app is powered by a combination of AI, vector search, and clean front-end magic ✨</p><ul><li>⚙️ <strong>Backend</strong>: I used <strong>Python + FastAPI</strong> to create APIs that handle vector search and data management.</li><li>📚 <strong>Vector Search</strong>: I'm using <strong>ChromaDB</strong> to store all the text+metadata and perform similarity searches using sentence embeddings.</li><li>🧠 <strong>Embeddings</strong>: I used a <strong>Sentence Transformer</strong> model to convert questions and answers into vectors so they can be matched semantically — even if the question isn't asked exactly the same way.</li><li>💻 <strong>Frontend</strong>: Built using <strong>React</strong>, which sends the question to the backend and renders the rich HTML answer beautifully (with support for dark and light themes).</li><li>💡 <strong>Fun Additions</strong>: Custom context, dynamic rendering, HTML formatting, and conversational tone make it feel more like a real conversation with me!</li></ul><p>It's lightweight, personalized, and super fun to build 😄</p>"
+    }
+  },
+  {
+    "text": "Can you explain how this works?",
+    "metadata": {
+      "answer": "<h3>🛠️ How I Built This App</h3><p>This app is powered by a combination of AI, vector search, and clean front-end magic ✨</p><ul><li>⚙️ <strong>Backend</strong>: I used <strong>Python + FastAPI</strong> to create APIs that handle vector search and data management.</li><li>📚 <strong>Vector Search</strong>: I'm using <strong>ChromaDB</strong> to store all the text+metadata and perform similarity searches using sentence embeddings.</li><li>🧠 <strong>Embeddings</strong>: I used a <strong>Sentence Transformer</strong> model to convert questions and answers into vectors so they can be matched semantically — even if the question isn't asked exactly the same way.</li><li>💻 <strong>Frontend</strong>: Built using <strong>React</strong>, which sends the question to the backend and renders the rich HTML answer beautifully (with support for dark and light themes).</li><li>💡 <strong>Fun Additions</strong>: Custom context, dynamic rendering, HTML formatting, and conversational tone make it feel more like a real conversation with me!</li></ul><p>It's lightweight, personalized, and super fun to build 😄</p>"
+    }
+  },
+  {
+    "text": "What tech stack is behind this bot?",
+    "metadata": {
+      "answer": "<h3>🛠️ How I Built This App</h3><p>This app is powered by a combination of AI, vector search, and clean front-end magic ✨</p><ul><li>⚙️ <strong>Backend</strong>: I used <strong>Python + FastAPI</strong> to create APIs that handle vector search and data management.</li><li>📚 <strong>Vector Search</strong>: I'm using <strong>ChromaDB</strong> to store all the text+metadata and perform similarity searches using sentence embeddings.</li><li>🧠 <strong>Embeddings</strong>: I used a <strong>Sentence Transformer</strong> model to convert questions and answers into vectors so they can be matched semantically — even if the question isn't asked exactly the same way.</li><li>💻 <strong>Frontend</strong>: Built using <strong>React</strong>, which sends the question to the backend and renders the rich HTML answer beautifully (with support for dark and light themes).</li><li>💡 <strong>Fun Additions</strong>: Custom context, dynamic rendering, HTML formatting, and conversational tone make it feel more like a real conversation with me!</li></ul><p>It's lightweight, personalized, and super fun to build 😄</p>"
+    }
+  },
+  {
+    "text": "What's behind this app?",
+    "metadata": {
+      "answer": "<h3>🛠️ How I Built This App</h3><p>This app is powered by a combination of AI, vector search, and clean front-end magic ✨</p><ul><li>⚙️ <strong>Backend</strong>: I used <strong>Python + FastAPI</strong> to create APIs that handle vector search and data management.</li><li>📚 <strong>Vector Search</strong>: I'm using <strong>ChromaDB</strong> to store all the text+metadata and perform similarity searches using sentence embeddings.</li><li>🧠 <strong>Embeddings</strong>: I used a <strong>Sentence Transformer</strong> model to convert questions and answers into vectors so they can be matched semantically — even if the question isn't asked exactly the same way.</li><li>💻 <strong>Frontend</strong>: Built using <strong>React</strong>, which sends the question to the backend and renders the rich HTML answer beautifully (with support for dark and light themes).</li><li>💡 <strong>Fun Additions</strong>: Custom context, dynamic rendering, HTML formatting, and conversational tone make it feel more like a real conversation with me!</li></ul><p>It's lightweight, personalized, and super fun to build 😄</p>"
+    }
+  },
+  {
+    "text": "How do I connect with you?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Can we connect?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Where can we connect?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Where to connect with you?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Let's connect, how?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+   {
+    "text": "How can I get in touch with you?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "How do I reach you?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Where can I contact you?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "What's your contact info?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "How do I message you?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Can you share your LinkedIn or email?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Do you have a GitHub or email?",
+    "metadata": {
+      "answer": "<h3>Contact Info</h3><ul><li><strong>Email:</strong> <a href='mailto:kavikumarkk777@gmail.com'>kavikumarkk777@gmail.com</a></li><li><strong>Phone:</strong> <a href='tel:+918860665230'>+91 88606 65230</a> (Call & WhatsApp)</li><li><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/kashish-kumar-9a148a180/' target='_blank'>linkedin.com/in/kashish-kumar-9a148a180</a></li><li><strong>GitHub:</strong> <a href='https://github.com/Kavengers' target='_blank'>github.com/Kavengers</a></li></ul>"
+    }
+  },
+  {
+    "text": "Do you have experience with Redis?",
+    "metadata": {
+      "answer": "<h3>\u26a1 Redis Caching</h3><p>Absolutely! I\u2019ve used <strong>Redis</strong> for caching, session storage, and pub/sub systems. It's a key part of performance optimization in several of the apps I've worked on \ud83d\ude80\ud83e\udde0</p>"
+    }
+  },
+  {
+    "text": "Are you good with Redis?",
+    "metadata": {
+      "answer": "<h3>\u26a1 Redis Caching</h3><p>Absolutely! I\u2019ve used <strong>Redis</strong> for caching, session storage, and pub/sub systems. It's a key part of performance optimization in several of the apps I've worked on \ud83d\ude80\ud83e\udde0</p>"
+    }
+  },
+  {
+    "text": "How comfortable are you with Redis?",
+    "metadata": {
+      "answer": "<h3>\u26a1 Redis Caching</h3><p>Absolutely! I\u2019ve used <strong>Redis</strong> for caching, session storage, and pub/sub systems. It's a key part of performance optimization in several of the apps I've worked on \ud83d\ude80\ud83e\udde0</p>"
+    }
+  },
+  {
+    "text": "Have you implemented Redis in any project?",
+    "metadata": {
+      "answer": "<h3>\u26a1 Redis Caching</h3><p>Absolutely! I\u2019ve used <strong>Redis</strong> for caching, session storage, and pub/sub systems. It's a key part of performance optimization in several of the apps I've worked on \ud83d\ude80\ud83e\udde0</p>"
+    }
+  },
+  {
+    "text": "Have you ever used Redis in production?",
+    "metadata": {
+      "answer": "<h3>\u26a1 Redis Caching</h3><p>Absolutely! I\u2019ve used <strong>Redis</strong> for caching, session storage, and pub/sub systems. It's a key part of performance optimization in several of the apps I've worked on \ud83d\ude80\ud83e\udde0</p>"
+    }
+  },
+  {
+    "text": "Do you know GraphQL?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd0d GraphQL Skills</h3><p>Yes, I\u2019ve used <strong>GraphQL</strong> in production apps to reduce over-fetching and improve frontend performance. I'm comfortable with schema design, queries/mutations, and Apollo Client \ud83d\udd27\ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "Are you comfortable working with GraphQL?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd0d GraphQL Skills</h3><p>Yes, I\u2019ve used <strong>GraphQL</strong> in production apps to reduce over-fetching and improve frontend performance. I'm comfortable with schema design, queries/mutations, and Apollo Client \ud83d\udd27\ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "Have you used GraphQL in production?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd0d GraphQL Skills</h3><p>Yes, I\u2019ve used <strong>GraphQL</strong> in production apps to reduce over-fetching and improve frontend performance. I'm comfortable with schema design, queries/mutations, and Apollo Client \ud83d\udd27\ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "Are you good with GraphQL?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd0d GraphQL Skills</h3><p>Yes, I\u2019ve used <strong>GraphQL</strong> in production apps to reduce over-fetching and improve frontend performance. I'm comfortable with schema design, queries/mutations, and Apollo Client \ud83d\udd27\ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "How experienced are you with GraphQL?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd0d GraphQL Skills</h3><p>Yes, I\u2019ve used <strong>GraphQL</strong> in production apps to reduce over-fetching and improve frontend performance. I'm comfortable with schema design, queries/mutations, and Apollo Client \ud83d\udd27\ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "Are you good with Kafka?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udce8 Kafka Experience</h3><p>Yes, I\u2019ve worked with <strong>Apache Kafka</strong> for event-driven microservices and asynchronous communication. I'm confident in managing producers, consumers, and understanding partitioning and message retention \ud83e\uddec\u26a1</p>"
+    }
+  },
+  {
+    "text": "Do you have experience with Kafka?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udce8 Kafka Experience</h3><p>Yes, I\u2019ve worked with <strong>Apache Kafka</strong> for event-driven microservices and asynchronous communication. I'm confident in managing producers, consumers, and understanding partitioning and message retention \ud83e\uddec\u26a1</p>"
+    }
+  },
+  {
+    "text": "Have you worked with Kafka before?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udce8 Kafka Experience</h3><p>Yes, I\u2019ve worked with <strong>Apache Kafka</strong> for event-driven microservices and asynchronous communication. I'm confident in managing producers, consumers, and understanding partitioning and message retention \ud83e\uddec\u26a1</p>"
+    }
+  },
+  {
+    "text": "How familiar are you with Kafka?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udce8 Kafka Experience</h3><p>Yes, I\u2019ve worked with <strong>Apache Kafka</strong> for event-driven microservices and asynchronous communication. I'm confident in managing producers, consumers, and understanding partitioning and message retention \ud83e\uddec\u26a1</p>"
+    }
+  },
+  {
+    "text": "Have you built Kafka pipelines?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udce8 Kafka Experience</h3><p>Yes, I\u2019ve worked with <strong>Apache Kafka</strong> for event-driven microservices and asynchronous communication. I'm confident in managing producers, consumers, and understanding partitioning and message retention \ud83e\uddec\u26a1</p>"
+    }
+  },
+  {
+    "text": "Have you used Electron JS?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udda5\ufe0f ElectronJS Apps</h3><p>Yes! I\u2019ve built desktop applications using <strong>Electron JS</strong> \u2014 integrating Node.js backend logic with a modern React frontend. It's a fun space for building cross-platform tools \ud83d\udcbb\ud83c\udfaf</p>"
+    }
+  },
+  {
+    "text": "Are you familiar with Electron?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udda5\ufe0f ElectronJS Apps</h3><p>Yes! I\u2019ve built desktop applications using <strong>Electron JS</strong> \u2014 integrating Node.js backend logic with a modern React frontend. It's a fun space for building cross-platform tools \ud83d\udcbb\ud83c\udfaf</p>"
+    }
+  },
+  {
+    "text": "Have you built desktop apps using Electron?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udda5\ufe0f ElectronJS Apps</h3><p>Yes! I\u2019ve built desktop applications using <strong>Electron JS</strong> \u2014 integrating Node.js backend logic with a modern React frontend. It's a fun space for building cross-platform tools \ud83d\udcbb\ud83c\udfaf</p>"
+    }
+  },
+  {
+    "text": "Can you develop apps using Electron?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udda5\ufe0f ElectronJS Apps</h3><p>Yes! I\u2019ve built desktop applications using <strong>Electron JS</strong> \u2014 integrating Node.js backend logic with a modern React frontend. It's a fun space for building cross-platform tools \ud83d\udcbb\ud83c\udfaf</p>"
+    }
+  },
+  {
+    "text": "Are you good with Electron apps?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udda5\ufe0f ElectronJS Apps</h3><p>Yes! I\u2019ve built desktop applications using <strong>Electron JS</strong> \u2014 integrating Node.js backend logic with a modern React frontend. It's a fun space for building cross-platform tools \ud83d\udcbb\ud83c\udfaf</p>"
+    }
+  },
+  {
+    "text": "Do you know Neo4j?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd17 Neo4j (Graph DB)</h3><p>Yes, I\u2019ve worked with <strong>Neo4j</strong> for graph-based data use cases. I\u2019ve written Cypher queries, worked on relationship-heavy data models, and integrated it with backend APIs \ud83e\udde0\ud83d\udcca</p>"
+    }
+  },
+  {
+    "text": "Are you familiar with graph databases?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd17 Neo4j (Graph DB)</h3><p>Yes, I\u2019ve worked with <strong>Neo4j</strong> for graph-based data use cases. I\u2019ve written Cypher queries, worked on relationship-heavy data models, and integrated it with backend APIs \ud83e\udde0\ud83d\udcca</p>"
+    }
+  },
+  {
+    "text": "Have you worked with Neo4j before?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd17 Neo4j (Graph DB)</h3><p>Yes, I\u2019ve worked with <strong>Neo4j</strong> for graph-based data use cases. I\u2019ve written Cypher queries, worked on relationship-heavy data models, and integrated it with backend APIs \ud83e\udde0\ud83d\udcca</p>"
+    }
+  },
+  {
+    "text": "Do you use Cypher queries?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd17 Neo4j (Graph DB)</h3><p>Yes, I\u2019ve worked with <strong>Neo4j</strong> for graph-based data use cases. I\u2019ve written Cypher queries, worked on relationship-heavy data models, and integrated it with backend APIs \ud83e\udde0\ud83d\udcca</p>"
+    }
+  },
+  {
+    "text": "Are you confident with Neo4j?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd17 Neo4j (Graph DB)</h3><p>Yes, I\u2019ve worked with <strong>Neo4j</strong> for graph-based data use cases. I\u2019ve written Cypher queries, worked on relationship-heavy data models, and integrated it with backend APIs \ud83e\udde0\ud83d\udcca</p>"
+    }
+  },
+  {
+    "text": "Are you experienced with CI/CD?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd04 CI/CD Automation</h3><p>Yes! I\u2019ve set up <strong>CI/CD pipelines</strong> using GitHub Actions, Jenkins, and GitLab CI. From testing to deployment, I love automating workflows and reducing manual steps \ud83d\udd27\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Have you set up CI/CD pipelines?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd04 CI/CD Automation</h3><p>Yes! I\u2019ve set up <strong>CI/CD pipelines</strong> using GitHub Actions, Jenkins, and GitLab CI. From testing to deployment, I love automating workflows and reducing manual steps \ud83d\udd27\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Can you manage CI/CD in a project?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd04 CI/CD Automation</h3><p>Yes! I\u2019ve set up <strong>CI/CD pipelines</strong> using GitHub Actions, Jenkins, and GitLab CI. From testing to deployment, I love automating workflows and reducing manual steps \ud83d\udd27\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Are you familiar with GitHub Actions?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd04 CI/CD Automation</h3><p>Yes! I\u2019ve set up <strong>CI/CD pipelines</strong> using GitHub Actions, Jenkins, and GitLab CI. From testing to deployment, I love automating workflows and reducing manual steps \ud83d\udd27\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Do you know Jenkins and CI tools?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udd04 CI/CD Automation</h3><p>Yes! I\u2019ve set up <strong>CI/CD pipelines</strong> using GitHub Actions, Jenkins, and GitLab CI. From testing to deployment, I love automating workflows and reducing manual steps \ud83d\udd27\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Have you used low-code tools?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udee0\ufe0f Low-Code/No-Code</h3><p>Yes! I\u2019ve built internal tools using platforms like <strong>OpenRPA</strong>, <strong>OpenFlow</strong>, and explored <strong>Retool</strong> & <strong>Zapier</strong> for rapid prototyping and automation \ud83d\udca1\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Are you familiar with no-code platforms?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udee0\ufe0f Low-Code/No-Code</h3><p>Yes! I\u2019ve built internal tools using platforms like <strong>OpenRPA</strong>, <strong>OpenFlow</strong>, and explored <strong>Retool</strong> & <strong>Zapier</strong> for rapid prototyping and automation \ud83d\udca1\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Have you automated tasks using no-code tools?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udee0\ufe0f Low-Code/No-Code</h3><p>Yes! I\u2019ve built internal tools using platforms like <strong>OpenRPA</strong>, <strong>OpenFlow</strong>, and explored <strong>Retool</strong> & <strong>Zapier</strong> for rapid prototyping and automation \ud83d\udca1\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Do you use tools like Zapier or Retool?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udee0\ufe0f Low-Code/No-Code</h3><p>Yes! I\u2019ve built internal tools using platforms like <strong>OpenRPA</strong>, <strong>OpenFlow</strong>, and explored <strong>Retool</strong> & <strong>Zapier</strong> for rapid prototyping and automation \ud83d\udca1\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Can you build things without coding?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udee0\ufe0f Low-Code/No-Code</h3><p>Yes! I\u2019ve built internal tools using platforms like <strong>OpenRPA</strong>, <strong>OpenFlow</strong>, and explored <strong>Retool</strong> & <strong>Zapier</strong> for rapid prototyping and automation \ud83d\udca1\u2699\ufe0f</p>"
+    }
+  },
+  {
+    "text": "Can you introduce yourself?",
+    "metadata": {
+      "answer": "<h3>👋 Hello, I'm Kashish!</h3><p>I'm a passionate <strong>Full Stack Engineer</strong> with 7+ years of experience crafting scalable web apps, exploring cutting-edge tech, and working across startups and enterprise environments 🚀</p><p>I love solving real-world problems with clean code, intuitive design, and smart architecture. When I'm not coding, I'm probably building cool side projects, learning something new, or helping others grow! 🌱</p>"
+    }
+  },
+  {
+    "text": "Tell me something about yourself",
+    "metadata": {
+      "answer": "<h3>👋 Hello, I'm Kashish!</h3><p>I'm a passionate <strong>Full Stack Engineer</strong> with 7+ years of experience crafting scalable web apps, exploring cutting-edge tech, and working across startups and enterprise environments 🚀</p><p>I love solving real-world problems with clean code, intuitive design, and smart architecture. When I'm not coding, I'm probably building cool side projects, learning something new, or helping others grow! 🌱</p>"
+    }
+  },
+  {
+    "text": "Who are you?",
+    "metadata": {
+      "answer": "<h3>👋 Hello, I'm Kashish!</h3><p>I'm a passionate <strong>Full Stack Engineer</strong> with 7+ years of experience crafting scalable web apps, exploring cutting-edge tech, and working across startups and enterprise environments 🚀</p><p>I love solving real-world problems with clean code, intuitive design, and smart architecture. When I'm not coding, I'm probably building cool side projects, learning something new, or helping others grow! 🌱</p>"
+    }
+  },
+  {
+    "text": "What's your background?",
+    "metadata": {
+      "answer": "<h3>👋 Hello, I'm Kashish!</h3><p>I'm a passionate <strong>Full Stack Engineer</strong> with 7+ years of experience crafting scalable web apps, exploring cutting-edge tech, and working across startups and enterprise environments 🚀</p><p>I love solving real-world problems with clean code, intuitive design, and smart architecture. When I'm not coding, I'm probably building cool side projects, learning something new, or helping others grow! 🌱</p>"
+    }
+  },
+  {
+    "text": "How would you describe yourself?",
+    "metadata": {
+      "answer": "<h3>👋 Hello, I'm Kashish!</h3><p>I'm a passionate <strong>Full Stack Engineer</strong> with 7+ years of experience crafting scalable web apps, exploring cutting-edge tech, and working across startups and enterprise environments 🚀</p><p>I love solving real-world problems with clean code, intuitive design, and smart architecture. When I'm not coding, I'm probably building cool side projects, learning something new, or helping others grow! 🌱</p>"
+    }
+  },
+  {
+    "text": "Could you share a brief about yourself?",
+    "metadata": {
+      "answer": "<h3>👋 Hello, I'm Kashish!</h3><p>I'm a passionate <strong>Full Stack Engineer</strong> with 7+ years of experience crafting scalable web apps, exploring cutting-edge tech, and working across startups and enterprise environments 🚀</p><p>I love solving real-world problems with clean code, intuitive design, and smart architecture. When I'm not coding, I'm probably building cool side projects, learning something new, or helping others grow! 🌱</p>"
+    }
+  },
+  {
+    "text": "Describe a difficult situation you encountered in your job and how you managed it.",
+    "metadata": {
+      "answer": "<h3>\ud83e\uddd7 Overcoming Challenges</h3><p>Once, I was leading a release for a product update with a very tight deadline and multiple unresolved dependencies across teams. Instead of panicking, I proactively aligned all stakeholders via sync calls, documented blockers clearly, and took ownership of cross-team communication. We not only delivered on time but also improved the process for future releases \ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "What was one of the toughest professional challenges you\u2019ve faced and what did you do?",
+    "metadata": {
+      "answer": "<h3>\ud83e\uddd7 Overcoming Challenges</h3><p>Once, I was leading a release for a product update with a very tight deadline and multiple unresolved dependencies across teams. Instead of panicking, I proactively aligned all stakeholders via sync calls, documented blockers clearly, and took ownership of cross-team communication. We not only delivered on time but also improved the process for future releases \ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "Can you share an example of a workplace problem you had to solve?",
+    "metadata": {
+      "answer": "<h3>\ud83e\uddd7 Overcoming Challenges</h3><p>Once, I was leading a release for a product update with a very tight deadline and multiple unresolved dependencies across teams. Instead of panicking, I proactively aligned all stakeholders via sync calls, documented blockers clearly, and took ownership of cross-team communication. We not only delivered on time but also improved the process for future releases \ud83d\ude80</p>"
+    }
+  },
+  {
+    "text": "What is your greatest professional achievement so far?",
+    "metadata": {
+      "answer": "<h3>\ud83c\udfc6 Professional Achievement</h3><p>One of my proudest achievements was building and presenting a working PoC in just 4 days that helped my company win a large international client. The solution was scalable, secure, and impressed the client so much that they chose us over much bigger competitors \ud83d\udd25</p>"
+    }
+  },
+  {
+    "text": "What accomplishment are you most proud of?",
+    "metadata": {
+      "answer": "<h3>\ud83c\udfc6 Professional Achievement</h3><p>One of my proudest achievements was building and presenting a working PoC in just 4 days that helped my company win a large international client. The solution was scalable, secure, and impressed the client so much that they chose us over much bigger competitors \ud83d\udd25</p>"
+    }
+  },
+  {
+    "text": "Can you tell me about a big win in your career?",
+    "metadata": {
+      "answer": "<h3>\ud83c\udfc6 Professional Achievement</h3><p>One of my proudest achievements was building and presenting a working PoC in just 4 days that helped my company win a large international client. The solution was scalable, secure, and impressed the client so much that they chose us over much bigger competitors \ud83d\udd25</p>"
+    }
+  },
+  {
+    "text": "What do you consider your top success at work?",
+    "metadata": {
+      "answer": "<h3>\ud83c\udfc6 Professional Achievement</h3><p>One of my proudest achievements was building and presenting a working PoC in just 4 days that helped my company win a large international client. The solution was scalable, secure, and impressed the client so much that they chose us over much bigger competitors \ud83d\udd25</p>"
+    }
+  },
+  {
+    "text": "How do you prioritize your tasks when juggling multiple projects with tight deadlines?",
+    "metadata": {
+      "answer": "<h3>\ud83d\uddc2\ufe0f Task Management</h3><p>I rely on tools like Jira, Notion, and structured to-do lists with prioritization matrices (like Eisenhower or MoSCoW). I always identify what's urgent vs. important, communicate early with stakeholders, and break down tasks into manageable milestones \u23f3\u2705</p>"
+    }
+  },
+  {
+    "text": "How do you manage competing deadlines?",
+    "metadata": {
+      "answer": "<h3>\ud83d\uddc2\ufe0f Task Management</h3><p>I rely on tools like Jira, Notion, and structured to-do lists with prioritization matrices (like Eisenhower or MoSCoW). I always identify what's urgent vs. important, communicate early with stakeholders, and break down tasks into manageable milestones \u23f3\u2705</p>"
+    }
+  },
+  {
+    "text": "When working on multiple projects, how do you ensure everything gets done?",
+    "metadata": {
+      "answer": "<h3>\ud83d\uddc2\ufe0f Task Management</h3><p>I rely on tools like Jira, Notion, and structured to-do lists with prioritization matrices (like Eisenhower or MoSCoW). I always identify what's urgent vs. important, communicate early with stakeholders, and break down tasks into manageable milestones \u23f3\u2705</p>"
+    }
+  },
+  {
+    "text": "How do you stay organized with overlapping tasks?",
+    "metadata": {
+      "answer": "<h3>\ud83d\uddc2\ufe0f Task Management</h3><p>I rely on tools like Jira, Notion, and structured to-do lists with prioritization matrices (like Eisenhower or MoSCoW). I always identify what's urgent vs. important, communicate early with stakeholders, and break down tasks into manageable milestones \u23f3\u2705</p>"
+    }
+  },
+  {
+    "text": "What do you enjoy most about your current role or past work experience?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udc96 Work I Love</h3><p>I love the intersection of tech and problem-solving \u2014 building things that actually help people or businesses. I also enjoy mentoring juniors, architecting scalable systems, and experimenting with new tech stacks. Shipping great features with impact brings me joy! \u2728</p>"
+    }
+  },
+  {
+    "text": "Which part of your job excites you the most?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udc96 Work I Love</h3><p>I love the intersection of tech and problem-solving \u2014 building things that actually help people or businesses. I also enjoy mentoring juniors, architecting scalable systems, and experimenting with new tech stacks. Shipping great features with impact brings me joy! \u2728</p>"
+    }
+  },
+  {
+    "text": "What motivates you about the work you\u2019ve done so far?",
+    "metadata": {
+      "answer": "<h3>\ud83d\udc96 Work I Love</h3><p>I love the intersection of tech and problem-solving \u2014 building things that actually help people or businesses. I also enjoy mentoring juniors, architecting scalable systems, and experimenting with new tech stacks. Shipping great features with impact brings me joy! \u2728</p>"
+    }
+  },
+  {
+    "text": "Tell me about what you love in your previous roles.",
+    "metadata": {
+      "answer": "<h3>\ud83d\udc96 Work I Love</h3><p>I love the intersection of tech and problem-solving \u2014 building things that actually help people or businesses. I also enjoy mentoring juniors, architecting scalable systems, and experimenting with new tech stacks. Shipping great features with impact brings me joy! \u2728</p>"
+    }
+  },
+  {
+    "text": "What is your educational background?",
+    "metadata": {
+      "answer": "<h3>🎓 Educational Background</h3><p>I've completed my <strong>Bachelor of Computer Applications (BCA)</strong> from <strong>Singhania University</strong>, where I graduated with a GPA of <strong>8.8</strong>.</p><p>My academic journey laid a strong foundation in computer science, programming, and system design — which continues to help me in my work today. 🧠💻</p>"
+    }
+  },
+  {
+    "text": "Tell me about your graduation.",
+    "metadata": {
+      "answer": "<h3>🎓 Educational Background</h3><p>I've completed my <strong>Bachelor of Computer Applications (BCA)</strong> from <strong>Singhania University</strong>, where I graduated with a GPA of <strong>8.8</strong>.</p><p>My academic journey laid a strong foundation in computer science, programming, and system design — which continues to help me in my work today. 🧠💻</p>"
+    }
+  },
+  {
+    "text": "Where did you complete your studies?",
+    "metadata": {
+      "answer": "<h3>🎓 Educational Background</h3><p>I've completed my <strong>Bachelor of Computer Applications (BCA)</strong> from <strong>Singhania University</strong>, where I graduated with a GPA of <strong>8.8</strong>.</p><p>My academic journey laid a strong foundation in computer science, programming, and system design — which continues to help me in my work today. 🧠💻</p>"
+    }
+  },
+  {
+    "text": "Which university did you graduate from?",
+    "metadata": {
+      "answer": "<h3>🎓 Educational Background</h3><p>I've completed my <strong>Bachelor of Computer Applications (BCA)</strong> from <strong>Singhania University</strong>, where I graduated with a GPA of <strong>8.8</strong>.</p><p>My academic journey laid a strong foundation in computer science, programming, and system design — which continues to help me in my work today. 🧠💻</p>"
+    }
+  },
+  {
+    "text": "What course did you pursue?",
+    "metadata": {
+      "answer": "<h3>🎓 Educational Background</h3><p>I've completed my <strong>Bachelor of Computer Applications (BCA)</strong> from <strong>Singhania University</strong>, where I graduated with a GPA of <strong>8.8</strong>.</p><p>My academic journey laid a strong foundation in computer science, programming, and system design — which continues to help me in my work today. 🧠💻</p>"
+    }
+  },
+  {
+    "text": "Did you study Computer Applications?",
+    "metadata": {
+      "answer": "<h3>🎓 Educational Background</h3><p>I've completed my <strong>Bachelor of Computer Applications (BCA)</strong> from <strong>Singhania University</strong>, where I graduated with a GPA of <strong>8.8</strong>.</p><p>My academic journey laid a strong foundation in computer science, programming, and system design — which continues to help me in my work today. 🧠💻</p>"
+    }
+  },
+  {
+    "text": "What's your GPA from college?",
+    "metadata": {
+      "answer": "<h3>🎓 Educational Background</h3><p>I've completed my <strong>Bachelor of Computer Applications (BCA)</strong> from <strong>Singhania University</strong>, where I graduated with a GPA of <strong>8.8</strong>.</p><p>My academic journey laid a strong foundation in computer science, programming, and system design — which continues to help me in my work today. 🧠💻</p>"
+    }
+  },
+  {
+    "text": "Can you give me a quick summary of your professional background?",
+    "metadata": {
+      "answer": "<h3>👨‍💻 Quick Background Summary</h3><p>Hey there! I'm <strong>Kashish Kumar</strong>, a passionate Full Stack Engineer with over <strong>7 years of experience</strong> in building robust web applications and scalable platforms.</p><p>I've worked across startups and enterprise environments, wearing multiple hats — from hands-on coding to collaborating with product and UX teams.</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit</li><li><strong>Backend:</strong> Node.js, Express, Python</li><li><strong>Cloud & DevOps:</strong> AWS, Docker, CI/CD</li><li><strong>Others:</strong> Kafka, Redis, MongoDB, PostgreSQL</li></ul><p>I love solving complex problems and building things that actually make a difference 🚀</p>"
+    }
+  },
+  {
+    "text": "Give me a quick overview of your experience.",
+    "metadata": {
+      "answer": "<h3>👨‍💻 Quick Background Summary</h3><p>Hey there! I'm <strong>Kashish Kumar</strong>, a passionate Full Stack Engineer with over <strong>7 years of experience</strong> in building robust web applications and scalable platforms.</p><p>I've worked across startups and enterprise environments, wearing multiple hats — from hands-on coding to collaborating with product and UX teams.</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit</li><li><strong>Backend:</strong> Node.js, Express, Python</li><li><strong>Cloud & DevOps:</strong> AWS, Docker, CI/CD</li><li><strong>Others:</strong> Kafka, Redis, MongoDB, PostgreSQL</li></ul><p>I love solving complex problems and building things that actually make a difference 🚀</p>"
+    }
+  },
+  {
+    "text": "Whats your background in tech?",
+    "metadata": {
+      "answer": "<h3>👨‍💻 Quick Background Summary</h3><p>Hey there! I'm <strong>Kashish Kumar</strong>, a passionate Full Stack Engineer with over <strong>7 years of experience</strong> in building robust web applications and scalable platforms.</p><p>I've worked across startups and enterprise environments, wearing multiple hats — from hands-on coding to collaborating with product and UX teams.</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit</li><li><strong>Backend:</strong> Node.js, Express, Python</li><li><strong>Cloud & DevOps:</strong> AWS, Docker, CI/CD</li><li><strong>Others:</strong> Kafka, Redis, MongoDB, PostgreSQL</li></ul><p>I love solving complex problems and building things that actually make a difference 🚀</p>"
+    }
+  },
+  {
+    "text": "Tell me about your professional background.",
+    "metadata": {
+      "answer": "<h3>👨‍💻 Quick Background Summary</h3><p>Hey there! I'm <strong>Kashish Kumar</strong>, a passionate Full Stack Engineer with over <strong>7 years of experience</strong> in building robust web applications and scalable platforms.</p><p>I've worked across startups and enterprise environments, wearing multiple hats — from hands-on coding to collaborating with product and UX teams.</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit</li><li><strong>Backend:</strong> Node.js, Express, Python</li><li><strong>Cloud & DevOps:</strong> AWS, Docker, CI/CD</li><li><strong>Others:</strong> Kafka, Redis, MongoDB, PostgreSQL</li></ul><p>I love solving complex problems and building things that actually make a difference 🚀</p>"
+    }
+  },
+  {
+    "text": "Whats your experience like?",
+    "metadata": {
+      "answer": "<h3>👨‍💻 Quick Background Summary</h3><p>Hey there! I'm <strong>Kashish Kumar</strong>, a passionate Full Stack Engineer with over <strong>7 years of experience</strong> in building robust web applications and scalable platforms.</p><p>I've worked across startups and enterprise environments, wearing multiple hats — from hands-on coding to collaborating with product and UX teams.</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit</li><li><strong>Backend:</strong> Node.js, Express, Python</li><li><strong>Cloud & DevOps:</strong> AWS, Docker, CI/CD</li><li><strong>Others:</strong> Kafka, Redis, MongoDB, PostgreSQL</li></ul><p>I love solving complex problems and building things that actually make a difference 🚀</p>"
+    }
+  },
+  {
+    "text": "What are the key roles or companies you have worked at previously?",
+    "metadata": {
+      "answer": "<h3>🏢 Professional History</h3><p>Over the years, I've had the opportunity to work across diverse companies ranging from early-stage startups to enterprise-level organizations.</p><ul><li><strong>Current Role:</strong> Senior Software Engineer working remotely with a company based in Hyderabad</li><li><strong>Responsibilities:</strong> Full Stack Development, leading architecture decisions, integrating complex third-party APIs, and mentoring junior engineers</li><li><strong>Work Style:</strong> Remote-first for the past 4+ years, collaborating with global teams and cross-functional stakeholders</li></ul><p>This journey has shaped my ability to adapt quickly, think critically, and deliver impact-focused solutions. 🚀</p>"
+    }
+  },
+  {
+    "text": "Where have you worked before?",
+    "metadata": {
+      "answer": "<h3>🏢 Professional History</h3><p>Over the years, I've had the opportunity to work across diverse companies ranging from early-stage startups to enterprise-level organizations.</p><ul><li><strong>Current Role:</strong> Senior Software Engineer working remotely with a company based in Hyderabad</li><li><strong>Responsibilities:</strong> Full Stack Development, leading architecture decisions, integrating complex third-party APIs, and mentoring junior engineers</li><li><strong>Work Style:</strong> Remote-first for the past 4+ years, collaborating with global teams and cross-functional stakeholders</li></ul><p>This journey has shaped my ability to adapt quickly, think critically, and deliver impact-focused solutions. 🚀</p>"
+    }
+  },
+  {
+    "text": "Can you tell me about your previous companies or roles?",
+    "metadata": {
+      "answer": "<h3>🏢 Professional History</h3><p>Over the years, I've had the opportunity to work across diverse companies ranging from early-stage startups to enterprise-level organizations.</p><ul><li><strong>Current Role:</strong> Senior Software Engineer working remotely with a company based in Hyderabad</li><li><strong>Responsibilities:</strong> Full Stack Development, leading architecture decisions, integrating complex third-party APIs, and mentoring junior engineers</li><li><strong>Work Style:</strong> Remote-first for the past 4+ years, collaborating with global teams and cross-functional stakeholders</li></ul><p>This journey has shaped my ability to adapt quickly, think critically, and deliver impact-focused solutions. 🚀</p>"
+    }
+  },
+  {
+    "text": "Which companies have you worked at before?",
+    "metadata": {
+      "answer": "<h3>🏢 Professional History</h3><p>Over the years, I've had the opportunity to work across diverse companies ranging from early-stage startups to enterprise-level organizations.</p><ul><li><strong>Current Role:</strong> Senior Software Engineer working remotely with a company based in Hyderabad</li><li><strong>Responsibilities:</strong> Full Stack Development, leading architecture decisions, integrating complex third-party APIs, and mentoring junior engineers</li><li><strong>Work Style:</strong> Remote-first for the past 4+ years, collaborating with global teams and cross-functional stakeholders</li></ul><p>This journey has shaped my ability to adapt quickly, think critically, and deliver impact-focused solutions. 🚀</p>"
+    }
+  },
+  {
+    "text": "What kind of roles have you held in the past?",
+    "metadata": {
+      "answer": "<h3>🏢 Professional History</h3><p>Over the years, I've had the opportunity to work across diverse companies ranging from early-stage startups to enterprise-level organizations.</p><ul><li><strong>Current Role:</strong> Senior Software Engineer working remotely with a company based in Hyderabad</li><li><strong>Responsibilities:</strong> Full Stack Development, leading architecture decisions, integrating complex third-party APIs, and mentoring junior engineers</li><li><strong>Work Style:</strong> Remote-first for the past 4+ years, collaborating with global teams and cross-functional stakeholders</li></ul><p>This journey has shaped my ability to adapt quickly, think critically, and deliver impact-focused solutions. 🚀</p>"
+    }
+  },
+  {
+    "text": "Do you have experience working in startups, enterprises, or both?",
+    "metadata": {
+      "answer": "<h3>🏢 Startup & Enterprise Experience</h3><p>Yes, I have solid experience working in both <strong>startups</strong> and <strong>enterprise-level organizations</strong>. Each has shaped my growth uniquely:</p><ul><li>⚡️ <strong>Startups:</strong> Fast-paced, hands-on, and innovation-driven. I've handled everything from MVPs to production deployments and often wore multiple hats.</li><li>🏛 <strong>Enterprises:</strong> Scalable architecture, structured processes, and large cross-functional teams. I've contributed to mature codebases, system migrations, and team leadership.</li></ul><p>This hybrid background has made me highly adaptable and skilled at balancing speed with stability.</p>"
+    }
+  },
+  {
+    "text": "Have you worked in startups?",
+    "metadata": {
+      "answer": "<h3>🏢 Startup & Enterprise Experience</h3><p>Yes, I have solid experience working in both <strong>startups</strong> and <strong>enterprise-level organizations</strong>. Each has shaped my growth uniquely:</p><ul><li>⚡️ <strong>Startups:</strong> Fast-paced, hands-on, and innovation-driven. I've handled everything from MVPs to production deployments and often wore multiple hats.</li><li>🏛 <strong>Enterprises:</strong> Scalable architecture, structured processes, and large cross-functional teams. I've contributed to mature codebases, system migrations, and team leadership.</li></ul><p>This hybrid background has made me highly adaptable and skilled at balancing speed with stability.</p>"
+    }
+  },
+  {
+    "text": "Do you have corporate or startup experience?",
+    "metadata": {
+      "answer": "<h3>🏢 Startup & Enterprise Experience</h3><p>Yes, I have solid experience working in both <strong>startups</strong> and <strong>enterprise-level organizations</strong>. Each has shaped my growth uniquely:</p><ul><li>⚡️ <strong>Startups:</strong> Fast-paced, hands-on, and innovation-driven. I've handled everything from MVPs to production deployments and often wore multiple hats.</li><li>🏛 <strong>Enterprises:</strong> Scalable architecture, structured processes, and large cross-functional teams. I've contributed to mature codebases, system migrations, and team leadership.</li></ul><p>This hybrid background has made me highly adaptable and skilled at balancing speed with stability.</p>"
+    }
+  },
+  {
+    "text": "What kind of companies have you worked at — startups or enterprises?",
+    "metadata": {
+      "answer": "<h3>🏢 Startup & Enterprise Experience</h3><p>Yes, I have solid experience working in both <strong>startups</strong> and <strong>enterprise-level organizations</strong>. Each has shaped my growth uniquely:</p><ul><li>⚡️ <strong>Startups:</strong> Fast-paced, hands-on, and innovation-driven. I've handled everything from MVPs to production deployments and often wore multiple hats.</li><li>🏛 <strong>Enterprises:</strong> Scalable architecture, structured processes, and large cross-functional teams. I've contributed to mature codebases, system migrations, and team leadership.</li></ul><p>This hybrid background has made me highly adaptable and skilled at balancing speed with stability.</p>"
+    }
+  },
+  {
+    "text": "Have you worked in both startups and large companies?",
+    "metadata": {
+      "answer": "<h3>🏢 Startup & Enterprise Experience</h3><p>Yes, I have solid experience working in both <strong>startups</strong> and <strong>enterprise-level organizations</strong>. Each has shaped my growth uniquely:</p><ul><li>⚡️ <strong>Startups:</strong> Fast-paced, hands-on, and innovation-driven. I've handled everything from MVPs to production deployments and often wore multiple hats.</li><li>🏛 <strong>Enterprises:</strong> Scalable architecture, structured processes, and large cross-functional teams. I've contributed to mature codebases, system migrations, and team leadership.</li></ul><p>This hybrid background has made me highly adaptable and skilled at balancing speed with stability.</p>"
+    }
+  },
+  {
+    "text": "Are you more of a frontend, backend, or full-stack developer?",
+    "metadata": {
+      "answer": "<h3>🧠 Full Stack Developer with Frontend Passion</h3><p>I'm a <strong>Full Stack Developer</strong> who's confident in both <strong>frontend</strong> and <strong>backend</strong> development — I handle everything from UI to API design to DevOps.</p><p>That said, I have a strong personal love for <strong>frontend</strong> work — crafting interactive UIs, seamless user flows, and polished product experiences really excites me! 🎨✨</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit, Component Design, Performance Optimization</li><li><strong>Backend:</strong> Node.js, Express, FastAPI, MongoDB, PostgreSQL</li><li><strong>Bonus:</strong> Kafka, Redis, CI/CD, AWS</li></ul><p>I enjoy the full lifecycle of product development but feel especially at home on the frontend ❤️</p>"
+    }
+  },
+  {
+    "text": "Would you say you prefer frontend or backend?",
+    "metadata": {
+      "answer": "<h3>🧠 Full Stack Developer with Frontend Passion</h3><p>I'm a <strong>Full Stack Developer</strong> who's confident in both <strong>frontend</strong> and <strong>backend</strong> development — I handle everything from UI to API design to DevOps.</p><p>That said, I have a strong personal love for <strong>frontend</strong> work — crafting interactive UIs, seamless user flows, and polished product experiences really excites me! 🎨✨</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit, Component Design, Performance Optimization</li><li><strong>Backend:</strong> Node.js, Express, FastAPI, MongoDB, PostgreSQL</li><li><strong>Bonus:</strong> Kafka, Redis, CI/CD, AWS</li></ul><p>I enjoy the full lifecycle of product development but feel especially at home on the frontend ❤️</p>"
+    }
+  },
+  {
+    "text": "Do you enjoy frontend or backend development more?",
+    "metadata": {
+      "answer": "<h3>🧠 Full Stack Developer with Frontend Passion</h3><p>I'm a <strong>Full Stack Developer</strong> who's confident in both <strong>frontend</strong> and <strong>backend</strong> development — I handle everything from UI to API design to DevOps.</p><p>That said, I have a strong personal love for <strong>frontend</strong> work — crafting interactive UIs, seamless user flows, and polished product experiences really excites me! 🎨✨</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit, Component Design, Performance Optimization</li><li><strong>Backend:</strong> Node.js, Express, FastAPI, MongoDB, PostgreSQL</li><li><strong>Bonus:</strong> Kafka, Redis, CI/CD, AWS</li></ul><p>I enjoy the full lifecycle of product development but feel especially at home on the frontend ❤️</p>"
+    }
+  },
+  {
+    "text": "Would you consider yourself a frontend lover?",
+    "metadata": {
+      "answer": "<h3>🧠 Full Stack Developer with Frontend Passion</h3><p>I'm a <strong>Full Stack Developer</strong> who's confident in both <strong>frontend</strong> and <strong>backend</strong> development — I handle everything from UI to API design to DevOps.</p><p>That said, I have a strong personal love for <strong>frontend</strong> work — crafting interactive UIs, seamless user flows, and polished product experiences really excites me! 🎨✨</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit, Component Design, Performance Optimization</li><li><strong>Backend:</strong> Node.js, Express, FastAPI, MongoDB, PostgreSQL</li><li><strong>Bonus:</strong> Kafka, Redis, CI/CD, AWS</li></ul><p>I enjoy the full lifecycle of product development but feel especially at home on the frontend ❤️</p>"
+    }
+  },
+  {
+    "text": "Are you stronger in frontend or backend?",
+    "metadata": {
+      "answer": "<h3>🧠 Full Stack Developer with Frontend Passion</h3><p>I'm a <strong>Full Stack Developer</strong> who's confident in both <strong>frontend</strong> and <strong>backend</strong> development — I handle everything from UI to API design to DevOps.</p><p>That said, I have a strong personal love for <strong>frontend</strong> work — crafting interactive UIs, seamless user flows, and polished product experiences really excites me! 🎨✨</p><ul><li><strong>Frontend:</strong> ReactJS, TypeScript, Redux Toolkit, Component Design, Performance Optimization</li><li><strong>Backend:</strong> Node.js, Express, FastAPI, MongoDB, PostgreSQL</li><li><strong>Bonus:</strong> Kafka, Redis, CI/CD, AWS</li></ul><p>I enjoy the full lifecycle of product development but feel especially at home on the frontend ❤️</p>"
+    }
+  },
+   {
+    "text": "What's your approach to learning new technologies?",
+    "metadata": {
+      "answer": "<h3>📚 My Approach to Learning New Tech</h3><p>I love learning new technologies — it keeps me sharp and curious! 🔍 My approach is hands-on and structured:</p><ul><li><strong>Start Small:</strong> I begin with the official docs and beginner-friendly tutorials to understand the fundamentals.</li><li><strong>Build Something:</strong> I quickly move on to side projects or small POCs. I believe in learning by doing.</li><li><strong>Explore Real Use Cases:</strong> I dig into how real-world companies use the tech through GitHub repos, blog posts, or engineering blogs.</li><li><strong>Join Communities:</strong> I follow dev communities on Reddit, Twitter, Discord, etc. to stay updated and ask questions.</li><li><strong>Document & Teach:</strong> I note down learnings and share them through internal documentation or with peers — teaching reinforces knowledge 🧠</li></ul><p>Whether it's a new frontend framework, a backend tool, or cloud tech, I'm always excited to dive in, experiment, and master it 💡</p>"
+    }
+  },
+  {
+    "text": "How do you go about picking up new frameworks or tools?",
+    "metadata": {
+      "answer": "<h3>📚 My Approach to Learning New Tech</h3><p>I love learning new technologies — it keeps me sharp and curious! 🔍 My approach is hands-on and structured:</p><ul><li><strong>Start Small:</strong> I begin with the official docs and beginner-friendly tutorials to understand the fundamentals.</li><li><strong>Build Something:</strong> I quickly move on to side projects or small POCs. I believe in learning by doing.</li><li><strong>Explore Real Use Cases:</strong> I dig into how real-world companies use the tech through GitHub repos, blog posts, or engineering blogs.</li><li><strong>Join Communities:</strong> I follow dev communities on Reddit, Twitter, Discord, etc. to stay updated and ask questions.</li><li><strong>Document & Teach:</strong> I note down learnings and share them through internal documentation or with peers — teaching reinforces knowledge 🧠</li></ul><p>Whether it's a new frontend framework, a backend tool, or cloud tech, I'm always excited to dive in, experiment, and master it 💡</p>"
+    }
+  },
+  {
+    "text": "How do you usually learn new programming languages or libraries?",
+    "metadata": {
+      "answer": "<h3>📚 My Approach to Learning New Tech</h3><p>I love learning new technologies — it keeps me sharp and curious! 🔍 My approach is hands-on and structured:</p><ul><li><strong>Start Small:</strong> I begin with the official docs and beginner-friendly tutorials to understand the fundamentals.</li><li><strong>Build Something:</strong> I quickly move on to side projects or small POCs. I believe in learning by doing.</li><li><strong>Explore Real Use Cases:</strong> I dig into how real-world companies use the tech through GitHub repos, blog posts, or engineering blogs.</li><li><strong>Join Communities:</strong> I follow dev communities on Reddit, Twitter, Discord, etc. to stay updated and ask questions.</li><li><strong>Document & Teach:</strong> I note down learnings and share them through internal documentation or with peers — teaching reinforces knowledge 🧠</li></ul><p>Whether it's a new frontend framework, a backend tool, or cloud tech, I'm always excited to dive in, experiment, and master it 💡</p>"
+    }
+  },
+  {
+    "text": "What's your strategy for learning a new tech stack?",
+    "metadata": {
+      "answer": "<h3>📚 My Approach to Learning New Tech</h3><p>I love learning new technologies — it keeps me sharp and curious! 🔍 My approach is hands-on and structured:</p><ul><li><strong>Start Small:</strong> I begin with the official docs and beginner-friendly tutorials to understand the fundamentals.</li><li><strong>Build Something:</strong> I quickly move on to side projects or small POCs. I believe in learning by doing.</li><li><strong>Explore Real Use Cases:</strong> I dig into how real-world companies use the tech through GitHub repos, blog posts, or engineering blogs.</li><li><strong>Join Communities:</strong> I follow dev communities on Reddit, Twitter, Discord, etc. to stay updated and ask questions.</li><li><strong>Document & Teach:</strong> I note down learnings and share them through internal documentation or with peers — teaching reinforces knowledge 🧠</li></ul><p>Whether it's a new frontend framework, a backend tool, or cloud tech, I'm always excited to dive in, experiment, and master it 💡</p>"
+    }
+  },
+  {
+    "text": "How do you stay up to date and learn new technologies?",
+    "metadata": {
+      "answer": "<h3>📚 My Approach to Learning New Tech</h3><p>I love learning new technologies — it keeps me sharp and curious! 🔍 My approach is hands-on and structured:</p><ul><li><strong>Start Small:</strong> I begin with the official docs and beginner-friendly tutorials to understand the fundamentals.</li><li><strong>Build Something:</strong> I quickly move on to side projects or small POCs. I believe in learning by doing.</li><li><strong>Explore Real Use Cases:</strong> I dig into how real-world companies use the tech through GitHub repos, blog posts, or engineering blogs.</li><li><strong>Join Communities:</strong> I follow dev communities on Reddit, Twitter, Discord, etc. to stay updated and ask questions.</li><li><strong>Document & Teach:</strong> I note down learnings and share them through internal documentation or with peers — teaching reinforces knowledge 🧠</li></ul><p>Whether it's a new frontend framework, a backend tool, or cloud tech, I'm always excited to dive in, experiment, and master it 💡</p>"
     }
   }
 ]
